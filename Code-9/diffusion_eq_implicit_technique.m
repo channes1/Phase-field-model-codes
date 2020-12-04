@@ -3,6 +3,8 @@
 M=1;
 N=32;
 dx=1.0;
+
+c = zeros(1,N); 
 for i=1:N
     c(i)=0.5*(1+sin(2*pi*M*i*dx/N));
 end
