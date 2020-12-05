@@ -30,7 +30,7 @@ for k in range(1,30):
         w=w+N;
         if(e==N+1):
           e=e-N;
-          new_c(i)=old_c(i)*(1-2*alpha)+alpha*(old_c(w)+old_c(e));
+          new_c=old_c(i)*(1-2*alpha)+alpha*(old_c(w)+old_c(e));
 for i in range(1,N):
   old_c(i) = new_c(i);
   plt.plot(old_c, 'b');
