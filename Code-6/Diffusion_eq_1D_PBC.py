@@ -18,8 +18,8 @@ for i in range(1,N):
   new_c = 0; # This gets updates
 
 plt.plot(old_c,'r*');
-ax.text('\leftarrow Initial profile',xy=(56,0.8));
-ax.text('\leftarrow Point of zero concentration',xy=(66,0.5));
+ax.text('Initial profile',xy=(56,0.8));
+ax.text('Point of zero concentration',xy=(66,0.5));
 
 for k in range(1,30):
   for j in range(1,500):
