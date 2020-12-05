@@ -31,5 +31,4 @@ for i in range(1,N):
       c_hat=c_hat(i)/(1+k_e*dt);
 
 c=real(np.fft.ifft(c_hat));
-#end
 plt.plot(c, 'b');
