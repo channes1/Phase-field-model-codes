@@ -1,2 +1,2 @@
-# Phase Field model codes in MATLAB and Python
+# Phase Field model codes written in MATLAB and Python
 
