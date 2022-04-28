@@ -13,8 +13,3 @@ where \Big( \frac{\delta \frac{G}{{N}_{v}} }{\delta c} \Big) = \mu
 
 Finally 
 \frac{{\tilde{c}}^{t} - M \times ({k}_{x}^{2}+{k}_{y}^{2}) \times \Delta t\times \tilde{g}}{1 + 2\kappa M {({k}_{x}^{2}+{k}_{y}^{2})}^{2} \times \Delta t} 
-
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
-$`\sqrt{2}`$
